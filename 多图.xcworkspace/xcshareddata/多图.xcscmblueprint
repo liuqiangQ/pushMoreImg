@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "088FD76D0F76D6C0D624996BC1527ACB63213C50",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE024F95F1B93CCEA66BD1AD706CCB7F19B197CD" : 9223372036854775807,
+    "088FD76D0F76D6C0D624996BC1527ACB63213C50" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8D6BE783-C8FE-4E6F-86C3-5F111D5EFF19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE024F95F1B93CCEA66BD1AD706CCB7F19B197CD" : "",
+    "088FD76D0F76D6C0D624996BC1527ACB63213C50" : "pushMoreImg\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "多图",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "多图.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuqiangQ\/pushMoreImg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "088FD76D0F76D6C0D624996BC1527ACB63213C50"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuqiangQ\/pushMoreImg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE024F95F1B93CCEA66BD1AD706CCB7F19B197CD"
+    }
+  ]
+}
